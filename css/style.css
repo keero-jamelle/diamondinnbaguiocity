@@ -2,7 +2,7 @@
 /* Ensure the slider background is centered to the right on smaller screens */
 @media (max-width: 768px) {
     .slider_bg_1 {
-        background-position: right center !important; /* Centers vertically and aligns to the right */
+        background-position: center center !important; /* Centers vertically and aligns to the right */
         background-size: cover !important; /* Ensures the image scales to fit the container */
     }
 
